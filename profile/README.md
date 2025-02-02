@@ -70,26 +70,6 @@ Our repositories include:
 - [LinkedIn Group](#)
 - [Discord Community](#)
 
-## 👥 Leadership
-
-- Organization Admins: [List of admins]
-- Project Maintainers: [List of maintainers]
-- Alumni Mentors: [List of active mentors]
-
-## 🏆 Featured Projects
-
-Here we showcase some of our outstanding projects:
-- [Project Name] - Brief description
-- [Project Name] - Brief description
-- [Project Name] - Brief description
-
-## 📊 Organization Stats
-
-- Active Projects: [Number]
-- Contributing Members: [Number]
-- Alumni Mentors: [Number]
-- Successful Projects: [Number]
-
 ## 🎯 Future Goals
 
 - Establish regular hackathons
